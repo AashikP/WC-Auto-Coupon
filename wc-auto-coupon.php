@@ -1,10 +1,11 @@
 <?php
 /**
  * Plugin Name: WC Auto Coupon
+ * Plugin URI: https://github.com/AashikP/wc-auto-coupon
  * Description: Automatically apply coupon when the cart total exceeds the minimum amount defined.
  * Version: 1.0.0
  * Author: Aashik P
- * Author URI: https://github.com/AashikP
+ * Author URI: https://aashikp.com
  * License: GPLv3 or later License
  * URI: http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: ap_wc_auto_coupon

@@ -39,8 +39,7 @@ You can find the options under: WooCommerce > Settings > General > Scroll down t
 The coupon will only be applied if it is valid for an order. For example, if you have restrictions or limitations set up, the coupon won't be applied. Please check if:
 
 * Coupon has no usage restrictions
-* Coupon has not reached its limit 
-(total number of uses)
+* Coupon has not reached its limit (total number of uses)
 * Coupon has an expity date in the future
 
 = Is this compatible with other plugins that deal with discounts? = 
