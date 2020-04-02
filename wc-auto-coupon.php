@@ -111,7 +111,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 			// Create a new object for coupon, and proceed if it is valid.
 			$coupon = new WC_Coupon( $coupon );
 			if ( $coupon->is_valid() ) {
-				$coupon = $coupon->code;
+				$coupon = $coupon->get_code();
 				wc_clear_notices();
 				// Remove coupon if cart total is < Minimum configured amount.
 				if ( $cart_total < $minimum_amount ) {
