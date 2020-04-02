@@ -1,9 +1,9 @@
-=== WC Auto Coupon ===
+=== Auto Discount for WooCommerce ===
 Contributors: aashik
-Tags: woocommerce, order, coupon, order amount, order total, minimum order, auto coupon, cart, checkout, woo
+Tags: woocommerce, discount, order, coupon, order amount, order total, minimum order, auto coupon, cart, checkout, woo
 Requires at least: 5.3.2
-Tested up to: 5.3.2
-Stable tag: 1.0.0
+Tested up to: 5.4
+Stable tag: 1.1.0
 Requires PHP: 7.2
 WC requires at least: 4.0.1
 WC tested up to: 4.0.1
@@ -48,11 +48,15 @@ This extension is only tested with core WooCommerce features. I'm not sure if th
 
 == Screenshots ==
 
-1. WC Auto Coupons Settings
+1. Auto Discount for WooCommerce Settings
 2. Default Cart/Checkout Page message
 3. Custom Cart/Checkout Page message
 
 == Changelog ==
+
+= 1.1.0 - 2020-03-31 =
+* Update: Change extension name from `WC Auto Coupon` to `Auto Discount for WooCommerce`, and updated text domain and other aspects to reflect this change
+* Fix depricated call to coupon code
 
 = 1.0.0 =
 * First Release
