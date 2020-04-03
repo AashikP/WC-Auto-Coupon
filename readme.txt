@@ -54,7 +54,7 @@ This extension is only tested with core WooCommerce features. I'm not sure if th
 
 == Changelog ==
 
-= 1.1.0 - 2020-03-31 =
+= 1.1.0 - 2020-04-03 =
 * Update: Change extension name from `WC Auto Coupon` to `Auto Discount for WooCommerce`, and updated text domain and other aspects to reflect this change
 * Fix depricated call to coupon code
 
