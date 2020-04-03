@@ -19,7 +19,7 @@ By configuring the minimum amount for an order, your manually created coupon wil
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/wc-auto-coupon` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/auto-discount-for-woocommerce` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Use the WooCommerce > Settings > General tab (Scroll to the bottom of the page to find the settings)
 
@@ -40,7 +40,7 @@ The coupon will only be applied if it is valid for an order. For example, if you
 
 * Coupon has no usage restrictions
 * Coupon has not reached its limit (total number of uses)
-* Coupon has an expity date in the future
+* Coupon has an expiry date in the future
 
 = Is this compatible with other plugins that deal with discounts? = 
 
@@ -56,7 +56,7 @@ This extension is only tested with core WooCommerce features. I'm not sure if th
 
 = 1.1.0 - 2020-04-03 =
 * Update: Change extension name from `WC Auto Coupon` to `Auto Discount for WooCommerce`, and updated text domain and other aspects to reflect this change
-* Fix depricated call to coupon code
+* Fix deprecated call to coupon code
 
 = 1.0.0 =
 * First Release
