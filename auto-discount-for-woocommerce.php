@@ -10,7 +10,7 @@
  * URI: http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: auto_discount_wc
  * WC requires at least: 4.0.1
- * WC tested up to: 4.0.1
+ * WC tested up to: 5.3.0
  * Original snippet source: https://docs.woocommerce.com/document/apply-a-coupon-for-minimum-cart-total/
  *
  * @package Auto Discount for WooCommerce
